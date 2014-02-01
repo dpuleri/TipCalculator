@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip_percentage">Enter Tip Percentage</string>
+    <string name="TIP_PERCENTAGE">15</string>
+    <string name="subtotal">---------Subtotal:</string>
+    <string name="SUBTOTAL">0.00</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="TIP_AMOUNT">0.00</string>
+    <string name="total_bill">Total Bill:</string>
+    <string name="TOTAL_BILL">0.00</string>
+
+</resources>
